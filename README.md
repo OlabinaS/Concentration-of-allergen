@@ -1,1 +1,1 @@
-# Concentration-of-allergen
+# Concentration of allergen
